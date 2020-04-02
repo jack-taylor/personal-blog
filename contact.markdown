@@ -1,0 +1,45 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+* [@jack_mdt](https://twitter.com/jack_mdt)
+* <a href="mailto:jackmdtaylor@protonmail.ch">ProtonMail</a>
+
+If you know what this is then shoot me a message. You'd be the first person to ever use it :)
+
+{% highlight text %}
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v4.10.1
+Comment: https://openpgpjs.org
+
+xsBNBF4aRH0BCACuV/SemjgL5hHvAeCKCFtCiw75lC/JHeG5ZfABCU0NgAWG
+SILREX+TOTLI6Tez657wG+BcKjN/KIIINqyNFnpGL61YUrAVjggT6Clu4de2
+iZzkW2s7qyUf7c6v//aTmLrEwbOhVHtYU0Yqeph2vNjnw7K7z0Nj0vFN2B5V
+6hFFmBeKnZj5jhdN00MJvnlbTeqT/neQ5ALjbXNzgWHLvi6w6i9q2LHGfvOQ
+N0ip3NFfUh2BxahqVLT+rcczZj+3bt9EJYxjDB/Qik3m1eG4RFVOrFWuc7Pl
+YNa0pGRiBOY/m37W4tDa40oWsvF6jBv+039mUiA2H88fth+6BoDhFSZjABEB
+AAHNN2phY2ttZHRheWxvckBwcm90b25tYWlsLmNoIDxqYWNrbWR0YXlsb3JA
+cHJvdG9ubWFpbC5jaD7CwHYEEAEIACAFAl4aRH0GCwkHCAMCBBUICgIEFgIB
+AAIZAQIbAwIeAQAKCRClJEIt/nmojINfCACnj55pi5GCJ2bIMg+0uX5qAQ+Z
+dZLCoONJSXp+lhd6mNIq3CzjGRKKi3oxcTKPMdZzhlI9qGlDSFLBXeLUlx4C
+YOHZRdu7zJy1ChhEajFgDpmbNVlTn8Wut3mn41MtXUX2sDEeyf7t21evjlFH
+EBK9uyOKLFSW5p+RkrsEBItEKzzfLipRL7WhMz+ODwcwwso5K893ecJRBr2o
+fMwat6q7fq4VYckHAE5rrc/7Y8EHwPDICQ789QK5DqixgZt2J1V1cUnjfnfe
+4waKm0sfmg9idj5qNTMhgZF5pueysYptSbnBTkViiUeFZnH6bSwEv6itPeqc
+r2+AUMZHHd2QqsYvzsBNBF4aRH0BCAD2LarTq/u/+EC7L+OXaPjyno6mtCj+
+/D2D8GuGoCc4fBBDu+3CGl+XN16DrZbaHA3fBhiNkheEJUxGH64fXhREFq2E
+2qiA+dk2EoaNkBYwLcMEXeQgIK4uY1s/iMCbl1BPVhhoNmHdbilaP/CVojYh
+sQcyWXG9oy0Khyqc06cQoLK39sIiZtqjmVLuIIDXp99f6jbWkO3oyjaFeJWH
+uoU/2fL+zU7vQQ2VPteAqxfa7aGf2/I1WOvSNkDC2VmFE6SCFLlAEreaqmj8
+j4/soK0HSAmZUrY5zfP+CSAiC8mlB94t8PDxYg52qtTOczfLRiOI1bV93knx
+tCeX8vCVaFxRABEBAAHCwF8EGAEIAAkFAl4aRH0CGwwACgkQpSRCLf55qIwB
+bQf/caTBehFm7hHQ3mM/3FogKPBQeK6M2z9AFceJTTYrsgTGqXWR8MrYsHrF
+l36O3CQ83FavF+baxvD8sr7fkRi0LNr2FBwf+S+WzxNXiO9nLklX70yyq04b
+TCo68o8j9WH5jvaM39jYpPUz5zv69YwRFtBnYeHkZCY6U5tMx339k+dmBsKb
+pZXuGhV57n9qX6ynBPwsb/er0/UB5k6uQplhKKHjZCF8czWrlsIVWs0KB4tT
+fzm04M9fPBHhdGMehdzvWK3jwemeMIIGR2NULebC7oog0ZDWypnxKwKIqT9v
++dA/aq9XmBf/zAM8liod7GWyxk2V9R3JzpSuHIfjoj+YmA==
+=Sx3H
+-----END PGP PUBLIC KEY BLOCK-----
+{% endhighlight %}
