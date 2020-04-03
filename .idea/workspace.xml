@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82464e5b-1902-46d2-a500-49e1810f2ae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +22,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../refsix" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_drafts" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/about" />
     </key>
@@ -48,7 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585855578847</updated>
       <workItem from="1585855580163" duration="183000" />
-      <workItem from="1585855874662" duration="6315000" />
+      <workItem from="1585855874662" duration="7346000" />
+      <workItem from="1585903726497" duration="26000" />
     </task>
     <servers />
   </component>
@@ -60,5 +59,9 @@
       <screen x="0" y="30" width="1680" height="1020" />
     </state>
     <state x="588" y="397" width="494" height="288" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.30.1680.1020@0.30.1680.1020" timestamp="1585865269359" />
+    <state x="623" y="298" width="424" height="487" key="FileChooserDialogImpl" timestamp="1585903750533">
+      <screen x="0" y="30" width="1680" height="1020" />
+    </state>
+    <state x="623" y="298" width="424" height="487" key="FileChooserDialogImpl/0.30.1680.1020@0.30.1680.1020" timestamp="1585903750533" />
   </component>
 </project>
