@@ -28,7 +28,7 @@ twitter_username: jack_mdt
 github_username:  jack-taylor
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
