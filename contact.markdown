@@ -3,10 +3,8 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-* [@jack_mdt](https://twitter.com/jack_mdt)
+* [@juniorhegelian](https://twitter.com/juniorhegelian)
 * <a href="mailto:jackmdtaylor@protonmail.ch">ProtonMail</a>
-
-If you know what this is then shoot me a message. You'd be the first person to ever use it :)
 
 {% highlight text %}
 -----BEGIN PGP PUBLIC KEY BLOCK-----
